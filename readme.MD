@@ -11,3 +11,6 @@
 🔵 Summary: My client is making scripts/plugins for games. He asked me to do his Figma design with HTML and CSS. (The website in the link may be old sites. I think they will soon add what i did.)
 
 🔵 Note: My client did not want me to share the codes as open source.
+
+[screen-capture.webm](https://user-images.githubusercontent.com/85739464/234232250-25027c2b-06ef-4f32-8a99-8adbf64742c5.webm)
+
